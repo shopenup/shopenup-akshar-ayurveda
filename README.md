@@ -1,1 +1,0 @@
-# 🏥 ShopenUp Ayurvedic eCommerce Platform
